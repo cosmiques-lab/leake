@@ -1,2 +1,2 @@
 # leake
-easy make tool
+easy make tool with git support
